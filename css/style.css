@@ -84,7 +84,7 @@ footer{
 
 /* Mode Changeの記述はここまで____________________________________ */
 
-@media (width < 500px) {
+@media (max-width: 500px) {
     .clock-date {
         font-size: 5vw;
     }
